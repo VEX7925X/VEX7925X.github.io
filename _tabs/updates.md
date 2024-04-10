@@ -1,5 +1,5 @@
 ---
-layout: updates
+layout: page
 icon: fas fa-upload
 order: 2
 ---
